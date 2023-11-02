@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "JETTERTEAM soft",
+    "slug": "random",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000"
+      },
+      "package": "com.karimmust123.random"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "de650aeb-9b2b-4573-9f51-806234d2e80a"
+      }
+    }
+  }
+}
